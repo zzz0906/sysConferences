@@ -1,11 +1,11 @@
 # Readme
 
-This is a python crawler and timeline for system conference papers. The rank of conferences is higher than CCF-B or CORE-A.
+This repository contains a Python-based web scraper and timeline for top-tier systems conference papers. The ranking of the conferences considered is higher than CCF-B or CORE-A.
 
 ## Timeline
 
-We draw a simple timeline to visualize the submission deadline of these conferences. We use the 2020 and 2021 conferences timestamp as the raw data. The submission deadline is around this timestamp across years.
+We've created a simple timeline to visualize the submission deadlines for these conferences, using 2020 and 2021 conference timestamps as raw data. The submission deadlines tend to be consistent across years, providing a useful reference for planning.
 
-* You can use the timeline to decide how long to prepare for your paper
+* Use the timeline to determine the appropriate preparation time for your paper
 
 ![](./timeline.png)
